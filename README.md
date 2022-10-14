@@ -16,4 +16,4 @@ Darüber hinaus bieten wir auch vielfältige Beartungsdienstleistungen an, indiv
 * [Data Mining Beratung](https://novustat.com/data-mining.html)
 * [Statistische Programmierung](https://novustat.com/statistische-programmierung.html)
 
-Falls Sie Unterstützung bei Ihrem statistischen Projekt wünschen, kontaktieren Sie uns für ein **kostenloses Angebot** einfach über unser [Anfrageformular](https://novustat.com/anfrage.html).
+Falls Sie Unterstützung bei Ihrem statistischen Projekt wünschen, kontaktieren Sie uns für ein **kostenloses Angebot** einfach über unser [Anfrageformular](https://novustat.com/anfrage.html) oder per [E-Mail](mailto:info@novustat.com).
