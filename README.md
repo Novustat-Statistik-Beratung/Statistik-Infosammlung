@@ -4,7 +4,7 @@ Dies ist die Git-Version der Novustat Statistik-Infosammlung. Bitte klicken Sie 
 ![](https://raw.githubusercontent.com/Novustat-Statistik-Beratung/Statistik-Infosammlung/main/wiki-link-image.png)
 <br>
 ## Über Novustat
-Novustat bietet als Beratungsunternehmen professionelle Statistik-Beratung für Studenten, Forscher und Unternehmen. Unser Expertenteam besteht aus über **50 hochqualifizierten Statistikern**, die auf einen reichhaltigen Erfahrungsschatz in Forschung & Lehre zurückblicken können. In unserem Wiki teilen unsere Statistiker ihr Expertenwissen zu zentralen Grundbegriffen und Verfahren der Statistik. Weitere **hilfreiche Leitfäden, Tutorials und How-To-Artikel** finden veröffentlichen wir darüber hinaus regelmäßig in unserem [Statistik-Blog](https://novustat.com/statistik-blog.html).
+Novustat bietet als Beratungsunternehmen professionelle Statistik-Beratung für Studenten, Forscher und Unternehmen. Unser Expertenteam besteht aus über **80 hochqualifizierten Statistikern**, die auf einen reichhaltigen Erfahrungsschatz in Forschung & Lehre zurückblicken können. In unserem Wiki teilen unsere Statistiker ihr Expertenwissen zu zentralen Grundbegriffen und Verfahren der Statistik. Weitere **hilfreiche Leitfäden, Tutorials und How-To-Artikel** finden veröffentlichen wir darüber hinaus regelmäßig in unserem [Statistik-Blog](https://novustat.com/statistik-blog.html).
 
 Darüber hinaus bieten wir auch vielfältige Beartungsdienstleistungen an, individuell auf Ihr Projekt und Ihre Bedürfnisse zugeschnitten:
 
